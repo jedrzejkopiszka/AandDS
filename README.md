@@ -12,7 +12,7 @@ The repository contains notebooks prepared by me for Algorithms and Data Structu
     * increasing order
     * descending order
     * A-shaped data
-    * V-shaped data
+    V-shaped data
   
 ## Data structures comparison
 **Structures used**: ordered list, Binary Search Tree (BST), AVL tree
