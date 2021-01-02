@@ -1,5 +1,5 @@
 # Algorithms and Data Structures 
-The repository contains notebooks prepared by me for Algorithms and Data Structures  
+The repository contains notebooks prepared by me for Algorithms and Data Structures classes
 
 ## Sorting algorithms comparison
 **Algorithms used**: Bubble sort, Heap Sort, Counting sort, Shell sort, Merge sort, Quicksort
