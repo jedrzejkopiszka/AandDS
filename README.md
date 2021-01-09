@@ -18,7 +18,7 @@ The repository contains notebooks prepared by me for Algorithms and Data Structu
 **Structures used**: ordered list, Binary Search Tree (BST), AVL tree
 <br><br>
 **TIme complexity measured for:**
-1. Insertion of a single 
+1. Insertion of a single element
 2. Removal of all elements (one by one, the element being removed chosen randomly)
 
 ## Graph algorithms
