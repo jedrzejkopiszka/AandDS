@@ -6,7 +6,7 @@ The repository contains notebooks prepared by me for Algorithms and Data Structu
 <br><br>
 **Time complexity measured for:**
 1. Sorting of randomly generated integers according to the uniform distribution.
-1. Sorting effectiveness for QS, HS, MS for data generated :
+1. Sorting effectiveness for QS, HS, MS for data generated using:
     * uniform distribution
     * constant value 
     * increasing order
